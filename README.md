@@ -18,9 +18,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com?user=hd1801&theme=radical&background=125%2C020024%2C090979)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=hd1801&show_icons=true&locale=en&layout=donut-vertical&theme=radical&bg_color=160,020024,090979,fcb045)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hd1801&show=prs_merged,prs_merged_percentage&theme=radical&rank_icon=github&hide=issues&bg_color=125,020024,090979&include_all_commits=true&" alt="hd1801" /></p>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hd1801&theme=radical&background=125%2C020024%2C090979" alt="GitHub Streak" /></a>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
