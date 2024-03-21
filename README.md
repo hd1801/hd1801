@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=hd1801&show=prs_merged,prs_merged_percentage&theme=radical&rank_icon=github&hide=issues&bg_color=125,020024,090979&include_all_commits=true&)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com?user=hd1801&theme=radical&background=125%2C020024%2C090979)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=hd1801&show_icons=true&locale=en&layout=donut-vertical&theme=radical&bg_color=160,020024,090979,fcb045)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hd1801&bg_color=11111b&color=cdd6f4&line=cba6f7&point=fab387&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
